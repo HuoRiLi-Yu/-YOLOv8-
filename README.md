@@ -1,4 +1,4 @@
-# -YOLOv8-
+# 基于YOLOv8的水果识别系统
 完成一个水果识别系统，输入一张包含水果的图片，可以识别出对应的水果种类
 # 本项目使用了开源大模型YOLOV8,相关环境依赖已经保存在以下地址中
 https://pan.baidu.com/s/162bINYJUoshHap-iNrLOXQ?pwd=uvpj
